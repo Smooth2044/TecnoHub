@@ -1,0 +1,35 @@
+user:
+
+{
+  "_id": {
+    "$oid": "669a3219a1b28deb2f8e185a"
+  },
+  "username": "daniel",
+  "email": "daniel@gmail.com",
+  "password": "$2a$10$6daT7f15fg4nP10SDsr.ie7HLZRyS47dbtYTM3a.G6o3bzhvDHUxC",
+  "createdAt": {
+    "$date": "2024-07-19T09:30:01.236Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-19T09:30:01.236Z"
+  },
+  "__v": 0
+}
+
+register:
+
+{
+  "email": "matias@gmail.com",
+  "password": "matias123",
+  "username": "matias"
+}
+
+product:
+
+{
+  "title": "redragon",
+  "description": "mouse gamer",
+  "price": "$20.000",
+  "category": "Mouse",
+  "picture": "https://http2.mlstatic.com/D_NQ_NP_871029-MLU70486883335_072023-O.webp"
+}
